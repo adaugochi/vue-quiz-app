@@ -1,0 +1,6 @@
+@mixin checkedRadioButtonColor($color) {
+  color: #fff;
+  border-color: $color;
+  background-color: $color;
+  box-shadow: none;
+}
